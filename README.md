@@ -1,5 +1,5 @@
 # ReactNativeMultiLanguageApp
-This app is an example of how to build a self-made multi-language in react native.
+This app is an example of how to create a self-made multi-language in react native.
 
 You can see the complete guide at this [link](https://wavelop.com/en/story/implementazione-multi-lingua-in-react-native-self-made/)
 
